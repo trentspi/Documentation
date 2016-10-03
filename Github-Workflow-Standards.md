@@ -17,3 +17,5 @@ The **name of the branch must follow the format**, issueN where N is equal to th
 Once a collaborator has completed their task they will push their branch to github and create a **pull request** from their branch to master.  Once the pull request has been created, it will require one of the administrators to review and approve of the pull request.  At this point the reviewer can also leave comments in the pull request, stating changes that may need to be made or inquiring for the reason why the collaborator chose to do something.
 
 If there are comments, address all comments on the same branch. After addressing the comments, update the comment stating that you have addressed the comment. Remember to push the modified code to the remote branch. This should update the original pull-request with the newly modified code.
+
+Once the pull request has been approved by an administrator it is the collaborators responsibility to merge the pull request.
