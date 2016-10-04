@@ -27,3 +27,18 @@ There will two different subsystems within our project
   - User uses JWT to access authenticated routes
 - Logout
   - Expire users JWT
+
+# Calendar System Requirements
+## User views
+- Should be able to view a single Month
+- Should be able to view a single Day
+- Should be able to switch between Months
+- Should be able to switch between Days
+
+## Tasks
+- Should be able to create Tasks
+- Should be able to remove Tasks
+- Should be able to update Tasks
+- Should be able to delete Tasks
+- Tasks must be associated with an individual Day
+- Should be able to change a Tasks' Day
