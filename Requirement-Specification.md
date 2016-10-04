@@ -11,15 +11,19 @@ There will two different subsystems within our project
 - Should be able to update a User
 - Should be able to delete a User
 
+## Credentials
+- unique username
+- text password
+
 ## Authentication
 - Should use JSON Web Tokens (JWT)
 - Should use BCrypt to hash user password
 
 ### Authentication Process
-- Login:
+- Login
   - User enters credentials
   - System validates user credentials
   - System returns JWT
   - User uses JWT to access authenticated routes
-- Logout:
+- Logout
   - Expire users JWT
