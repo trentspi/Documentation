@@ -7,7 +7,6 @@ There will two different subsystems within our project
 # Login System Requirements
 ## User
 - Should be able to create a User
-- Should be able to remove a User
 - Should be able to update a User
 - Should be able to delete a User
 
